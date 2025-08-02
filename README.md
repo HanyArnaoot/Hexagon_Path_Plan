@@ -32,7 +32,8 @@ Attribution Required: You must give credit to Hany M. Arnaoot when using or modi
 
 See the LICENSE (LICENSE.md) file for full details. For inquiries about commercial or other uses, contact:Email: hanyarnaoot@yahoo.com (mailto:hanyarnaoot@yahoo.com) or dr.hany.arnaout@aiet.edu.eg (mailto:dr.hany.arnaout@aiet.edu.eg)
  
-Prerequisites:.NET Framework or .NET Core (specify version if known, e.g., .NET 6.0)
+Prerequisites:
+.NET Framework or .NET Core
 MapWinGIS (ActiveX control for GIS functionality)
 Visual Studio or another C# IDE
 
@@ -47,12 +48,12 @@ Configuration: Set start and goal points, and adjust parameters for the dual-poi
 Output: The algorithm generates an optimized, safe path avoiding obstacles.
 
 
-Please ensure contributions align with the non-military, civilian focus of this project.Contact For questions, collaboration opportunities, or feedback, contact:Author: Hany M. Arnaoot
+Please ensure contributions align with the non-military, civilian focus of this project. Contact: For questions, collaboration opportunities, or feedback, contact:Author: Hany M. Arnaoot
 Email: hanyarnaoot@yahoo.com (mailto:hanyarnaoot@yahoo.com) or dr.hany.arnaout@aiet.edu.eg (mailto:dr.hany.arnaout@aiet.edu.eg)
 Institution: Alexandria Higher Institute of Engineering & Technology, Egypt
 GitHub: HanyArnaoot
 
-AcknowledgmentsDeveloped as part of Hany M. Arnaoot’s research in Egypt, focused on advancing ethical robotics.
+Acknowledgments: Developed as part of Hany M. Arnaoot’s research in Egypt, focused on advancing ethical robotics.
 Inspired by challenges in visibility graph path planning and the need for efficient, safe navigation in civilian applications.
 Built using MapWinGIS for GIS functionality.
 
